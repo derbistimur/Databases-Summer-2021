@@ -58,14 +58,3 @@ DELETE FROM countries RETURNING *;
 
 
 SELECT * FROM countries;
-
-
-
-
-
-
-
-
-
-
-
